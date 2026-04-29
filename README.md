@@ -1,41 +1,71 @@
-<h1 align="center">Hi, I'm João Pedro Madalosso Rodrigues 👋</h1>
+# Hi, I'm João Pedro Madalosso Rodrigues 👋
 
-<p align="center">
-  🚀 Full Stack Developer focused on scalable web applications and SaaS solutions.<br>
-  💡 Passionate about Next.js, TypeScript, and modern web technologies.<br>
-  🔍 Currently seeking remote (CLT) opportunities to build impactful products.
-</p>
+Backend Developer with 5+ years of experience building APIs, ERP systems, and asynchronous processing pipelines.
 
----
-
-## 👨‍💻 About Me
-I'm a Full Stack Developer with over 5 years of experience, working across multiple technologies and industries.  
-Throughout my career, I've contributed to ERP systems, custom web solutions, and scalable applications using:
-
-- ⚡ **Frontend**: Next.js, React, Vue.js, Tailwind CSS
-- 🔗 **Backend**: Node.js, PHP (Laravel), OutSystems
-- 🛠️ **Tools**: Git, Prisma ORM, SQL
-
-I'm currently focusing on enhancing my skills with **Next.js**, **TypeScript**, and modern full stack development.
+Focused on:
+- backend architecture
+- event-driven systems
+- integrations with external services
+- data processing and reliability
 
 ---
 
-## 🚀 Projects
-New projects coming soon! Stay tuned as I build and share solutions focused on full stack development, modern frameworks, and real-world applications.
+## 🚀 What I Do
+
+I build backend systems designed to handle real-world complexity:
+
+- asynchronous processing (queues, jobs, workers)
+- API design with clear boundaries
+- integration with third-party services
+- data consistency and failure handling
+
+I can work across the stack when needed, but my focus is backend.
+
+---
+
+## 🧠 Featured Projects
+
+### 📌 Lead Management System
+Backend system with asynchronous pipeline using RabbitMQ and AI classification.
+
+- Queue-based architecture (enrichment + classification)
+- External API integration
+- LLM-based classification (Ollama)
+- Retry and failure handling
+
+👉 Focus: distributed flow, resilience, backend design
+
+---
+
+### 🎬 Movies API
+Backend API with authentication, upload, and background job processing.
+
+- JWT authentication
+- File upload (Cloudflare R2)
+- Job processing with retry logic
+- Filtering and search
+
+👉 Focus: API design, validation, backend fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+- Node.js, TypeScript
+- NestJS
+- PostgreSQL, Prisma
+- RabbitMQ, Docker
+- Zod, JWT
 
 ---
 
 ## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/joao-madalosso/)
-- 📧 jpmadalossorodrigues@gmail.com
-- 🌐 [Portfolio (coming soon)](https://github.com/JPMadalossoRodrigues)
+
+- LinkedIn: https://www.linkedin.com/in/joao-madalosso
+- Email: madalosso.dev@gmail.com
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,php,laravel,vue,tailwind,git,prisma" />
-</p>
+## 🎯 Current Focus
 
----
-
-<p align="center">Thanks for visiting my profile! ⭐</p>
+Looking for backend roles where I can work on systems involving real data flow, integrations, and asynchronous processing.
